@@ -1,0 +1,26 @@
+hp = 100;
+move_speed = 10;
+max_hp = 100;
+hp = max_hp;
+base_scale = 0.5;
+flap_timer = 0;
+flap_speed = 0.15;
+flap_intensity = 0.10;
+image_xscale = base_scale;
+image_yscale = base_scale;
+wing_angle = 0;
+timer = 0;
+alarm[0] = 1;
+weapon_level = 1;
+is_dead = false;
+max_cd = 300;
+can_melee = true;
+has_shield_ability = false;
+shield_timer = 0;
+shield_cooldown = 0;
+max_shield_cooldown = 600;
+shield_active = false;
+weapon_type = 0;
+has_parry_ability = false;
+my_attack_speed = 30;
+

@@ -1,0 +1,11 @@
+hp = 100;
+vspeed = 2;
+state = "inme";
+indicator_time = 90;
+fire_timer = 30; 
+can_damage = true;
+target_angle = 270;
+lx = x;
+ly = y;
+wing_frame = 0;
+squish_timer = 0;

@@ -1,0 +1,20 @@
+paused = false;
+alarm[0] = 300;
+stage = 1;
+enemies_to_spawn = 3;
+spawn_rate = 60;
+alarm[0] = spawn_rate;
+show_stage_clear = false;
+global.gold = 0;
+global.xp = 0;
+global.level = 0;
+global.max_xp = 100
+shop_open = false;
+cost_max_hp = 50;
+cost_shield = 50;
+level_up_menu = false;
+cost_parry = 200;
+enemy_3_timer = 5;
+show_potential = false;
+potential_timer = 0;
+

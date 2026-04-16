@@ -1,0 +1,1 @@
+show_stage_clear = false;
